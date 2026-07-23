@@ -23,7 +23,7 @@ https://github.com/user-attachments/assets/57dd1b54-4e6a-4a24-be0d-45c60c71d061
 
 ![Dashboard](/dashboard.png)
 
-### 🌙 Dark Mode
+### 🌙 light Mode
 
 ![light Mode](light-mode.png)
 

@@ -21,15 +21,15 @@ https://your-username.github.io/expense-tracker/
 
 ### 🏠 Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](/dashboard.png)
 
 ### 🌙 Dark Mode
 
-![Dark Mode](screenshots/dark-mode.png)
+![Dark Mode](dark-mode.png)
 
 ### 📊 Analytics
 
-![Analytics](screenshots/analytics.png)
+![Analytics](analytics.png)
 ## ✨ Features
 
 - 💰 Add Income & Expense Transactions

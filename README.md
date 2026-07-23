@@ -20,13 +20,13 @@ https://your-username.github.io/expense-tracker/
 ## 📸 Screenshots
 
 ### 🏠 Dashboard
-(Add Screenshot)
+(dashboard.png)
 
 ### 🌙 light Mode
-(Add Screenshot)
+(light-mode.png)
 
 ### 📊 Analytics
-(Add Screenshot)
+(analytics.png)
 
 ---
 

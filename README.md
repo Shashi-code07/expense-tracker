@@ -10,10 +10,10 @@ A modern and responsive **Expense Tracker Web Application** built using **HTML, 
 
 ## 🌐 Live Demo
 
-🔗 Live Website: (Add your GitHub Pages link here)
 
-Example:
-https://your-username.github.io/expense-tracker/
+
+https://github.com/user-attachments/assets/57dd1b54-4e6a-4a24-be0d-45c60c71d061
+
 
 ---
 
